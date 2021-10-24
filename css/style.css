@@ -1,0 +1,25 @@
+.body{
+    font: 20px Arial, Sans-serif;
+}
+
+.navbar{
+    background-color: sandybrown;
+}
+
+.estacoes-div{
+    background-color: linen;
+}
+
+.margin{
+    /*margin-top: 30px; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.quatroestacoes-div{
+    background-color: lavender;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
